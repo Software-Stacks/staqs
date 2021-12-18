@@ -102,3 +102,13 @@ a {
 
 /* .btn {
 } */
+
+@media screen and (max-width: 992px) {
+    body {
+        background-color: blue;
+    }
+
+    a {
+        padding: 0.5rem .9rem;
+    }
+}
